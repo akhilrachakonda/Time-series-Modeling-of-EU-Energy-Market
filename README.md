@@ -103,4 +103,12 @@ To further assess model performance, visual analyses were conducted. Figure 3 pr
 <img src="LSTMneg.png">
 
 --- 
+## 👥 Contributors
+
+<a href="https://github.com/srikashyap24">
+  <img src="https://github.com/srikashyap24.png" width="50" />
+</a>
+<a href="https://github.com/akhilrachakonda">
+  <img src="https://github.com/akhilrachakonda.png" width="50" />
+</a>
 
